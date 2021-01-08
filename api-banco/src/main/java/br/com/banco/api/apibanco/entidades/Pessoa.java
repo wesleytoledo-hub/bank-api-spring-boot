@@ -1,7 +1,6 @@
 package br.com.banco.api.apibanco.entidades;
 
 import lombok.Data;
-// import lombok.NonNull;
 
 import java.util.Date;
 
